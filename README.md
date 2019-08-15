@@ -15,3 +15,4 @@ Customer churn is when a company’s customers stop doing business with that com
 4. Data exploration
 5. Training Model - Logistic Regression
 6. Evaluating Model
+7. Insights/Conclusion
